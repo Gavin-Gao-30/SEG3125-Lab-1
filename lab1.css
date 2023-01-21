@@ -1,13 +1,13 @@
 html {
-  background-color: #5CDB95;
+	background-color: #5CDB95;
 }
  
 body {
-  background-color: white;
-  width: 600px;
-  border: 6px solid #05386B;
-  margin: 50px auto;
-  padding: 30px 20px;
+	background-color: white;
+	width: 600px;
+	border: 6px solid #05386B;
+	margin: 50px auto;
+	padding: 30px 20px;
 }
 
 h1 {
@@ -17,5 +17,5 @@ h1 {
 	padding: 20px 0;
 	color: #05386B;
 	text-shadow: 3px 3px 1px black;
-    font-family: "Lucida Console", monospace;
+	font-family: "Lucida Console", monospace;
 }
