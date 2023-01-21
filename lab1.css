@@ -1,11 +1,11 @@
 html {
-  background-color: #3AAFA9;
+  background-color: #5CDB95;
 }
  
 body {
-  background-color: #2B7A78;
+  background-color: white;
   width: 600px;
-  border: 6px solid black;
+  border: 6px solid #05386B;
   margin: 50px auto;
   padding: 30px 20px;
 }
@@ -15,7 +15,7 @@ h1 {
 	text-align: center;
 	margin: 0;
 	padding: 20px 0;
-	color: #ff00ff;  /* Fuchsia */
+	color: #05386B;
 	text-shadow: 3px 3px 1px black;
-    font-family: "Lucida Console", "Courier New", monospace;
+    font-family: "Lucida Console", monospace;
 }
