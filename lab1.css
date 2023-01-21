@@ -1,0 +1,21 @@
+html {
+  background-color: #3AAFA9;
+}
+ 
+body {
+  background-color: #2B7A78;
+  width: 600px;
+  border: 6px solid black;
+  margin: 50px auto;
+  padding: 30px 20px;
+}
+
+h1 {
+	font-size: 60px;
+	text-align: center;
+	margin: 0;
+	padding: 20px 0;
+	color: #ff00ff;  /* Fuchsia */
+	text-shadow: 3px 3px 1px black;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
