@@ -1,9 +1,10 @@
 html {
-	background-color: pink;
+	margin: auto;
+	background-color: #115E85;
 }
  
 body {
-	background-color: pink;
+	background-color: #115E85;
 	width: 600px;
 	border: 6px solid #05386B;
 	margin: 50px auto;
