@@ -1,8 +1,9 @@
 html {
-	background-color: white;
+	
 }
  
 body {
+	background-color: white;
 	width: 600px;
 	border: 6px solid #05386B;
 	margin: 50px auto;
