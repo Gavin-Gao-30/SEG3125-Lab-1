@@ -1,5 +1,5 @@
 html {
-	background-color: #5CDB95;
+	background-color: pink;
 }
  
 body {
@@ -16,7 +16,7 @@ h1 {
 	margin: auto;
 	padding: 20px 0;
 	color: #05386B;
-	text-shadow: 3px 3px 1px black;
+	text-shadow: 3px 3px 1px grey;
 	font-family: "Lucida Console", "Courier New", monospace;
 }
 
