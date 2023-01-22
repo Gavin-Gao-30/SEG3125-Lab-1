@@ -19,3 +19,7 @@ h1 {
 	text-shadow: 3px 3px 1px black;
 	font-family: "Lucida Console", "Courier New", monospace;
 }
+
+question {
+ background-color: green; 
+}
