@@ -1,9 +1,9 @@
 html {
-	background-color: purple
+	background-color: #3BEB8B
 }
  
 body {
-	background-color: purple;
+	background-color: #3BEB8B;
 	width: 600px;
 	border: 6px solid #05386B;
 	margin: 50px auto;
@@ -28,5 +28,6 @@ h1 {
 	
 }
 .block {
-	background-color: blue;
+	background-color: #85111F;
+	text-align: center;
 }
