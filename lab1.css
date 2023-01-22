@@ -3,7 +3,7 @@ html {
 }
  
 body {
-	background-color: #34495E;
+	background-color: lightslategray;
 	width: 600px;
 	border: 6px solid #05386B;
 	margin: 50px auto;
@@ -13,7 +13,7 @@ body {
 h1 {
 	font-size: 60px;
 	text-align: center;
-	margin: 0;
+	margin: auto;
 	padding: 20px 0;
 	color: #05386B;
 	text-shadow: 3px 3px 1px black;
@@ -23,7 +23,7 @@ h1 {
 .question {
  background-color: orange;
  color: white;
- margin: 40px;
+ margin: auto;
  padding: 40px;
 	
 }
