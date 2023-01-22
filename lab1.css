@@ -20,6 +20,10 @@ h1 {
 	font-family: "Lucida Console", "Courier New", monospace;
 }
 
-question {
- background-color: green; 
+.question {
+ background-color: orange;
+ color: white;
+ margin: 40px;
+ padding: 40px;
+	
 }
